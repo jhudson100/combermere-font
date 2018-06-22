@@ -14,4 +14,4 @@ The letterforms were drawn in Inkscape, and then imported and tweaked
 in FontForge.
 
 
-![Font sample]fontsample.png
+![Font sample](fontsample.png)
